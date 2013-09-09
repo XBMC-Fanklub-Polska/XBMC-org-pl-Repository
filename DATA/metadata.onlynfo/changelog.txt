@@ -1,3 +1,7 @@
+[B]1.0.2[/B]
+Zmieniony opis
+
+
 [B]1.0.1[/B]
 Test
 
