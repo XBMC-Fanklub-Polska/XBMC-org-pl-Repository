@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+<addon id="metadata.onlynfo"
+       name="Only NFO"
+       version="1.0.0"
+       provider-name="Regss">
+    <requires>
+    <import addon="xbmc.metadata" version="2.1.0" />
+    </requires>
+    <extension point="xbmc.metadata.scraper.movies"
+               language="pl"
+               library="onlynfo.xml" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Only NFO</summary>
+        <description>-</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+
 <addon id="repository.xbmc.org.pl" name="XBMC Fanklub Polska" version="1.0.0" provider-name="XBMC.org.pl">
     <extension point="xbmc.addon.repository" name="XBMC Fanklub Polska">
 		<info compressed="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/REPO/addons.xml</info>
@@ -15,3 +35,11 @@
         <platform>all</platform>
     </extension>
 </addon>
+
+
+
+</addons>
+
+
+
+
