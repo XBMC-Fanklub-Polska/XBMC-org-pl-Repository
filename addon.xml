@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="XBMC Fanklub Polska">
 		<info compressed="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/addons.xml</info>
 		<checksum>https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/repo</datadir>
+		<datadir zip="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/DATA</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>XBMC Fanklub Polska repository</summary>
