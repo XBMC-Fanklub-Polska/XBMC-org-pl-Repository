@@ -3,7 +3,7 @@
 
 <addon id="metadata.onlynfo"
        name="Only NFO"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Regss">
     <requires>
     <import addon="xbmc.metadata" version="2.1.0" />
@@ -12,11 +12,16 @@
                language="pl"
                library="onlynfo.xml" />
     <extension point="xbmc.addon.metadata">
-        <summary>Only NFO</summary>
-        <description>-</description>
+        <summary>Only NFO</summary>        
+		<summary lang="en">Downloads only data from NFO files</summary>
+        <summary lang="pl">Pobiera dane wyłącznie z plików nfo</summary>
+		
+		<description lang="en">Downloads only data from NFO files</description>
+        <description lang="pl">Pobiera dane wyłącznie z plików nfo</description>
         <platform>all</platform>
     </extension>
 </addon>
+
 
 
 <addon id="repository.xbmc.org.pl" name="XBMC Fanklub Polska" version="1.0.0" provider-name="XBMC.org.pl">
