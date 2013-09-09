@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.xbmc.org.pl" name="XBMC Fanklub Polska" version="1.0.0" provider-name="XBMC.org.pl">
     <extension point="xbmc.addon.repository" name="XBMC Fanklub Polska">
-		<info compressed="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/addons.xml</info>
-		<checksum>https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/DATA</datadir>
+		<info compressed="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/REPO/addons.xml</info>
+		              <checksum>https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/REPO/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.github.com/XBMC-Fanklub-Polska/XBMC-org-pl-Repository/master/DATA</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>XBMC Fanklub Polska repository</summary>
